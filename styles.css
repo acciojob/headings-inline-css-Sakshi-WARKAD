@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+body{
+	font-family:sans-serif;
+}
+#one{
+	color:#2a7ae2;
+	font-size:25px;
+}
+#two{
+	color: #f44336;
+	font-size:30px;
+}
+#three{
+	color:#4caf50;
+	font-size:35px;
+}
+#four{
+	color:#ff9800;
+	font-size:40px;
+}
+#five{
+	color: #607d8b;
+	font-size:35px;
+}
+#six{
+	color:#ffeb3b;
+	font-size:30px;
+}
